@@ -27,12 +27,12 @@ Select a specific retailer to dynamically update the entire dashboard, offering 
 Drill down into the sales specifics of a chosen retailer with the line chart showcasing sales trends across different regions.
 Tailor your analysis by selecting a specific region to unveil intricate details.
 
-### Sales Methods Comparison (Stacked Bar Chart):
+### Sales Methods Comparison (text table):
 
 Understand the impact of various sales methods on overall performance.
 Toggle between retailers and regions to observe the distribution of sales methods, aiding in strategic decision-making.
 
-### Product Sales Breakdown (Stacked Area Chart):
+### Product Sales Breakdown (Stacked horizontal bar Chart):
 
 Delve into product-specific sales by selecting a retailer and region.
 This dynamic chart allows you to explore the nuances of product sales across different regions and retailers based on selected criteria.
