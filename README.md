@@ -4,6 +4,17 @@
 
 Explore the dynamic landscape of Adidas sales from 2021 to 2022 through our comprehensive sales analysis dashboard. This dashboard is designed to assist the company in dissecting various critical factors influencing sales, such as retailer performance, gender-based insights, regional variations, and more. Each visual element is meticulously crafted to provide a clear and concise understanding of the sales trends across diverse dimensions.
 
+## About Dataset:
+
+Dataset Source: Kaggle - Adidas Sales Dataset 
+link - https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?resource=download
+
+A dataset encompassing Adidas sales comprises information detailing the sales of Adidas products. This dataset may encompass various particulars, including the quantity of units sold, the overall sales revenue, sales locations, product types, and other pertinent details.
+
+The utility of Adidas sales data extends to diverse applications, including the analysis of sales patterns, the identification of successful products or marketing initiatives, and the formulation of strategies for future sales endeavors. Furthermore, it serves as a valuable tool for comparing Adidas sales with those of competitors and evaluating the efficacy of distinct marketing or sales channels.
+
+Potential sources for an Adidas sales dataset encompass Adidas itself, market research firms, governmental entities, or other organizations engaged in tracking sales data. The specific data elements incorporated into an Adidas sales dataset may diverge based on the source and the intended purpose for which the data is employed.
+
 ## Features:
 
 ### Retailer Overview (Bubble Chart):
@@ -31,18 +42,7 @@ This dynamic chart allows you to explore the nuances of product sales across dif
 Gain a holistic view of the product landscape through a pie chart illustrating the distribution of different product types.
 Use this chart to filter specific product types, influencing the other charts dynamically.
 
-This interactive dashboard provides a powerful tool for in-depth analysis, offering a user-friendly experience to explore Adidas sales data with precision and flexibility. Whether focusing on specific retailers, regions, sales methods, or products, the dashboard allows users to tailor their insights to meet diverse analytical needs effortlessly.
-
-## About Dataset:
-
-Dataset Source: Kaggle - Adidas Sales Dataset 
-link - https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset?resource=download
-
-A dataset encompassing Adidas sales comprises information detailing the sales of Adidas products. This dataset may encompass various particulars, including the quantity of units sold, the overall sales revenue, sales locations, product types, and other pertinent details.
-
-The utility of Adidas sales data extends to diverse applications, including the analysis of sales patterns, the identification of successful products or marketing initiatives, and the formulation of strategies for future sales endeavors. Furthermore, it serves as a valuable tool for comparing Adidas sales with those of competitors and evaluating the efficacy of distinct marketing or sales channels.
-
-Potential sources for an Adidas sales dataset encompass Adidas itself, market research firms, governmental entities, or other organizations engaged in tracking sales data. The specific data elements incorporated into an Adidas sales dataset may diverge based on the source and the intended purpose for which the data is employed.
+This interactive dashboard provides a powerful tool for in-depth analysis, offering a user-friendly experience to explore Adidas sales data with precision and flexibility. Whether focusing on specific retailers, regions, sales methods, or products, the dashboard allows users to tailor their insights to meet diverse analytical needs effortlessly. For Selecting the desired category on the dasboard, click on it and when done, click on it to comeback.
 
 ## Tableau Public Link:
 
